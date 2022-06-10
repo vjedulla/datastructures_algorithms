@@ -1,0 +1,10 @@
+.idea
+data/
+generated/
+.env
+.env*
+/output
+__pycache__
+.DS_Store
+logs/*.log
+.vscode
