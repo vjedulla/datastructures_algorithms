@@ -11,6 +11,8 @@ import time
 # this code was found elsewhere and I am makining it available for myself and anyone else
 # for more https://github.com/tommyod/KDEpy
 
+# interesting dataset: https://datasets.simula.no/alfheim/
+
 
 def kde2D(x, y, field, resolution=128, **kwargs):
     """Build 2D kernel density estimate (KDE)."""
